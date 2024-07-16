@@ -52,8 +52,6 @@ $ cat result.txt
 Simply add 66 and 2 and you will see the result is 68.
 
 
-# Acknowledgements
-Many thanks to the whole zone01Kisumu  community for enabling us to conduct this project
 
 
 
